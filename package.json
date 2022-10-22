@@ -2,7 +2,10 @@
   "name": "dns_local_ip",
   "version": "1.0.0",
   "description": "A DNS server which always answers my IP in local network.",
-  "main": "index.js",
+  "main": "src/index.js",
+  "bin": {
+    "dns_local_ip": "./bin/cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
