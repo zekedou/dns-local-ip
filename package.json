@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/c4710n/dns_local_ip/issues"
   },
-  "homepage": "https://github.com/c4710n/dns_local_ip#readme"
+  "homepage": "https://github.com/c4710n/dns_local_ip#readme",
+  "dependencies": {
+    "dns2": "^2.0.5"
+  }
 }
