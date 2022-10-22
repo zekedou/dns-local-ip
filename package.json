@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/c4710n/dns_local_ip.git"
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/c4710n/dns_local_ip#readme",
   "dependencies": {
-    "dns2": "^2.0.5"
+    "dns2": "^2.0.5",
+    "internal-ip": "^7.0.0"
   }
 }
