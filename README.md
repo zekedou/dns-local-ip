@@ -1,11 +1,11 @@
-# dns_local_ip
+# dns-local-ip
 
 > A DNS server which always answers my IP in local network.
 
 ## Usage
 
 ```sh
-$ dns_local_ip 6000
+$ dns-local-ip 6000
 
 $ dig @127.0.0.1 -p 6000 www.example.com
 ```

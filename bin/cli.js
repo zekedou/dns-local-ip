@@ -18,7 +18,7 @@ function usage() {
   return `
 Usage:
 
-  dns_local_ip <port> [--debug]
+  dns-local-ip <port> [--debug]
 
 `
 }
