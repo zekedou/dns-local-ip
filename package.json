@@ -1,6 +1,5 @@
 {
   "name": "dns-local-ip",
-  "private": true,
   "version": "1.0.0",
   "description": "A DNS server which always answers my IP in local network.",
   "main": "src/index.js",
