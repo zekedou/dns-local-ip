@@ -12,14 +12,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/c4710n/dns-local-ip.git"
+    "url": "git+https://github.com/zekedou/dns-local-ip.git"
   },
-  "author": "c4710n",
-  "license": "ISC",
+  "author": "zekedou",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/c4710n/dns-local-ip/issues"
+    "url": "https://github.com/zekedou/dns-local-ip/issues"
   },
-  "homepage": "https://github.com/c4710n/dns-local-ip#readme",
+  "homepage": "https://github.com/zekedou/dns-local-ip#readme",
   "dependencies": {
     "dns2": "^2.0.5",
     "internal-ip": "^7.0.0"
